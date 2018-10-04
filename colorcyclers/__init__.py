@@ -1,3 +1,4 @@
+# coding: utf-8
 #
 # ColorCyclers - color generator algorithms
 # Copyright © 2016  Dave Hocker (email: AtHomeX10@gmail.com)
